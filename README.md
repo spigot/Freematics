@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/spigot/Freematics.png?label=ready&title=Ready)](https://waffle.io/spigot/Freematics)
 Firmware & Libraries for Project Freematics
 ===========================================
 
